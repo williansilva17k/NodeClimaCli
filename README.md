@@ -8,7 +8,7 @@ Para instalar localmente e poder usar o comando no terminal, use o comando:
 
 O comando clima vai estar disponível no terminal. Você pode usar o comando passando o nome da cidade:
 
-clima porto alegre
+<code> clima porto alegre </code>
 
 O comando vai mostrar o clima em tempo real da cidade:
 <code>
