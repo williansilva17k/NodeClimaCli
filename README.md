@@ -25,10 +25,10 @@ O comando vai mostrar o clima em tempo real da cidade:
 # API Advisor ClimaTempo
 Esta ferramenta uma a API do ClimaTempo para buscar as informações do clima da cidade. Quando for executar o comando pela primeira vez, é necessário informar o token da API para poder usá-la:
 
-clima porto alegre --token seu-app-token
+<code>clima porto alegre --token seu-app-token</code>
 
 ou
 
-clima porto alegre -t seu-app-token
+<code>clima porto alegre -t seu-app-token</code>
 
 O token só precisa ser informado uma vez e ele será armazenado localmente. Se precisar atualizar o token, basta informá-lo novamente usando o mesmo parâmetro.
