@@ -11,8 +11,8 @@ O comando clima vai estar disponível no terminal. Você pode usar o comando pas
 <code> clima porto alegre </code>
 
 O comando vai mostrar o clima em tempo real da cidade:
-<code>
-Clima em Porto Alegre, RS
+```
+    Clima em Porto Alegre, RS
     Temperatura: 16°
     Direção do vento: SW
     Velocidade do vento: 9.5 km/h
@@ -20,9 +20,8 @@ Clima em Porto Alegre, RS
     Condição: Poucas nuvens
     Pressão atmosférica: 1012.2
     Sensação: 16°
-    </code>
-    <br>
-    
+ ```
+ 
 # API Advisor ClimaTempo
 Esta ferramenta uma a API do ClimaTempo para buscar as informações do clima da cidade. Quando for executar o comando pela primeira vez, é necessário informar o token da API para poder usá-la:
 
